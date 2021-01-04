@@ -613,3 +613,112 @@ svg{
     background-color: #094977;
     color: #B1D9F5;
 }
+
+.section_5{
+    background-color: #192229;
+    width: auto;
+    height: 1000px;
+}
+
+.title_1{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4em;
+    font-size: 2.1em;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.atom_title{
+    display: inline;
+    color: #58B3F3;
+    padding-left: .5em;
+}
+
+.title_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 1em;
+    color: #6F767C;
+    font-size: .9em;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.Nudo{
+    display: flex;
+    justify-content: center;
+}
+
+.order_grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+.target_1-colum1{
+    padding: 1em;
+}
+
+.title-1-col{
+    color: white;
+    font-family: sans-serif;
+    margin-bottom: 1em;
+    font-size: 1em;
+}
+
+.portada-img{
+    border-radius: 10px;
+}
+
+.Arreglo_1{
+    margin-top: 2.4em;
+}
+
+.circul{
+    position: relative;
+}
+
+.Prueba{
+    width: 40px;
+    height: 40px;
+    background-color: #2A3B47;
+    border-radius: 50%;
+    position: absolute;
+    left: 90%;
+    top: 2.4em;
+}
+
+.dx{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    fill: #58B3F3;
+    cursor: pointer;
+}
+
+.centro-inp{
+    display: flex;
+    justify-content: center;
+    margin: 4em;
+}
+
+.btn-inpu{
+    color: white;
+    background-color: #1192EE;
+    padding: 1em 2.9em;
+    border: 0;
+    border-radius: .5em;
+}
+
+/* .section_6{
+    width: auto;
+    height: 500px;
+    background-color: #A43D3D;
+} */
